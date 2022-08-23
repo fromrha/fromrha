@@ -1,11 +1,4 @@
-< p class="acquaintanceship" >
-  
-> Hi, i am a human and they call me shin. <br>
-> I'm currently learning on digital painting and a front-end web developer.
-
-> feel free to have a chat with me via email
-
-< /p >
+Sentimental heart with a skeptical mind.
 
 <!---
 fromrha/fromrha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
