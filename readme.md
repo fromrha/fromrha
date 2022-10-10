@@ -10,7 +10,7 @@ My real name is hard to spell, so just call me **Shin.**
 - :film_strip: As a matter of fact, movies does helped me learn new languages.
 - :moneybag: Trying to make money work for me instead of me working for money. `Investation`
 
-##  :books: Least of my favorite books
+##  :books: List of my favorite books
 1. The intelligent investor
 2. Rich dad poor dad
 3. The Theory of Everything
